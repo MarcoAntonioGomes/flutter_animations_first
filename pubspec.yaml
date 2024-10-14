@@ -45,4 +45,9 @@ flutter:
 
 
 flutter_native_splash:
-  color: ""
+  color: "#4D1245"
+  image: assets/images/grimorio.png
+  android_12:
+    color: "#4D1245"
+    icon_background_color: "#4D1245"
+    image: assets/images/grimorio_1152.png
